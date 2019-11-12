@@ -1,0 +1,74 @@
+---
+title: "Welcome to R-Ladies St. Louis"
+author: "https://github.com/Cghlewis/R-Ladies-STL-Cleaning-Data-R"
+date: "November 12, 2019"
+output:
+  xaringan::moon_reader:
+    css: ["default", "rladies", "rladies-fonts"]
+    nature: 
+        highlightLines: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Materials and wifi for tonight 
+
+- Wifi connection is **WU Guest**
+    
+- Materials available at https://github.com/Cghlewis/R-Ladies-STL-Cleaning-Data-R
+
+---
+
+# What is R-Ladies?
+
+- R-Ladies is a world-wide organization with the mission of promoting **gender diversity in the R community**  
+
+- Started in San Francisco in 2012  
+
+- Currently has **140+ chapters and more than 15,000** members globally  
+<center>
+![](https://rladies.org/wp-content/uploads/2018/02/R-Ladies.png)
+
+---
+
+# R-Ladies St. Louis 
+
+* Started in September 2017 by Jenine Harris and Chelsea West 
+
+* 4 Meetups in 2017-2018, 5 Meetups in 2018-2019, and 5 planned for 2019-2020!
+   
+    - **TODAY! Our 11th Meetup!** Cleaning messy data in R with **Crystal Lewis** (PRC) 
+
+    - Feb 12: Introduction to R Shiny with **Dr. Angelique Zeringue** (Mercy Hospital) 
+
+    - Mar 17: Qualitative analysis in R with **Mary Painter** (UMSL) 
+
+    - Apr 2: Making personal websites with blogdown with **Dr. Dorris Scott** (WUSTL)
+    
+* RSVP on Meetup
+
+---
+
+# R-Ladies St. Louis 2019-2020 sponsors
+
+<center>
+<img src="https://neteffects.com/wp-content/themes/gotheme-twenty-fourteen/images/netEffects-logo.png" width = "200"/>
+
+<img src="https://fuse.wustl.edu/wp-content/uploads/2017/03/Microsoft-1918x768.jpeg" width = "500"/>
+
+---
+
+# Want to learn more or get involved?
+
+- Visit **rladies.org** to learn about the mission and global work of R-Ladies 
+
+- Connect with R-Ladies St. Louis 
+    + Email us at <a href = "mailto:rladiesstl@gmail.com">rladiesstl@gmail.com</a> 
+    + Follow us on Twitter <a href="https://twitter.com/RLadiesSTL">@rladiesstl</a>
+    + Connect with us on <a href="https://www.meetup.com/R-Ladies-St-Louis/">Meetup</a>
+    
+<img src = "https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoOnly.png?raw=true" width = 250/><img src = "https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif" width = "300" align = "right"/>
+
+
